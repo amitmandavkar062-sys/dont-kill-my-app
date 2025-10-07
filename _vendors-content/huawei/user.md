@@ -1,4 +1,5 @@
----
+-beter
+--
 manufacturer:
     - huawei
 
